@@ -46,6 +46,22 @@
 
 ###
 
+
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=Muniza-NAbeel&color=blue&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Muniza-NAbeel&color=blue&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Muniza-NAbeel" target="_blank">
+    <img src="https://img.shields.io/github/followers/Muniza-NAbeel?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Muniza-NAbeel?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositories-69-181717?style=flat&logo=github" alt="GitHub Repositories" />
+  </a>
+</div>
+
+
+###
+
 <div align="center">
 <img src="https://github.com/Muniza-NAbeel/Muniza-NAbeel/blob/output/snake.svg" alt="Snake animation" />
 </div>

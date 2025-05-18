@@ -1,6 +1,12 @@
-<h2 align="center">Hi 👋! My name is Muniza and I'm a Full Stack Developer from Pakistan 🇵🇰 </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&lines=Hey%2C+I%27m+Muniza+Nabeel!;A+Passionate+web+Developer;from+Pakistan!;Full-Stack+Developer+%27+Anime+Lover;Exploring+AI%2C+Web3%2C+and+Tech;Always+up+for+Creative+Challenges;Let%27s+Collaborate+and+Build!">
+</p>
+<h3 align="center">🚀 Transforming Ideas Into High-Performance Web Apps 💎</h3>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Female Coder" width="400">
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muniza-NAbeel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />

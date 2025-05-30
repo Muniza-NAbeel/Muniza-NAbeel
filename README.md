@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/github/followers/Muniza-NAbeel?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Muniza-NAbeel?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-69-181717?style=flat&logo=github" alt="GitHub Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-71-181717?style=flat&logo=github" alt="GitHub Repositories" />
   </a>
 </div>
 
